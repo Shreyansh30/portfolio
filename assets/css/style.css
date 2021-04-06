@@ -1,9 +1,3 @@
-/**
-* Template Name: Laura - v2.2.1
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -110,6 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   color: #ffc85a;
+  background-color: black;
   text-decoration: none;
 }
 
@@ -290,6 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-active .mobile-nav {
   opacity: 1;
+  background-color: black;
   visibility: visible;
 }
 
